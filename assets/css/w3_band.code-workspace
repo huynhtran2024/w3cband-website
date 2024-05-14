@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../java_script/lesson_1"
+		},
+		{
+			"path": "../../../BEM_Toast Message UI"
+		}
+	],
+	"settings": {}
+}
